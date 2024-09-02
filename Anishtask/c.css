@@ -1,0 +1,40 @@
+.heading{
+    font-size: 30px;
+}
+#username{
+    border:none;
+    outline: none;
+    height:18px;
+    width:210px;
+}
+#password{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    outline:none;
+    height:18px;
+    width:210px;
+}
+#cpassword{
+    margin-top: 20px;
+    outline:none;
+    height:18px;
+    width:210px;
+}
+
+#submit{
+    margin-top: 10px;
+    background-color: rgb(82, 216, 165);
+    height:20px;
+    width:90px;
+    font-size:bold;
+}
+.div{
+    text-align: center;
+}
+body{
+    background-image: url("https://wallpapercave.com/wp/5IMSHl3.jpg");
+    background-size: cover;
+}
+#alert{
+      color:maroon;
+}
